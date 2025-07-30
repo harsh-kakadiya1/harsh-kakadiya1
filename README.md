@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [DATAMIMIC.IO](https://github.com/harsh-kakadiya1/datamimic.io)
 
-- 💬 Ask me about **SYNTHETIC DATA, ML, AI,**
+- 💬 Ask me about **SYNTHETIC DATA, ML, AI**
 
 - 📫 How to reach me **harshkakadiya128@gmai.com**
 
