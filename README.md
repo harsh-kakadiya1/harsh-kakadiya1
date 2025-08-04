@@ -1,8 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Kakadiya!;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Harsh+Kakadiya!&pause=1000&color=007bff" alt="Typing SVG" />
+  </a>
 </h1>
-
-<h3 align="center">An Ai-Enthusiast | Machine Learning | Problem Solver | Synthetic Data</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&lines=AI/ML+Student;Data+Science+Enthusiast;Synthetic+Data" alt="Typing SVG" />
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kakadiya1&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kakadiya1" /> </p>
 
