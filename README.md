@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kakadiya1&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kakadiya1" /> </p>
 
 - 🔭 I’m currently working on [SYNTHETIC DATA GENERATOR](https://datamimic-io.netlify.app/home)
 
