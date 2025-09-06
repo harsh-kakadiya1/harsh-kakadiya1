@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=31&pause=1000&color=39F791&width=435&lines=Hi+There!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=31&pause=&500color=39F791&width=435&lines=Hi+There!+👋;I'm+Harsh+Kakadiya!;AI/ML+Student;Synthetic+Data;Frontend;Ai-developer)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Harsh+Kakadiya!;AI/ML+Student;;Synthetic+Data;Frontend;Ai-developer;&pause=1000&color=007bff" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Harsh+Kakadiya!;AI/ML+Student;Synthetic+Data;Frontend;Ai-developer;&pause=1000&color=007bff" alt="Typing SVG" />
   </a>
 </div>
 
