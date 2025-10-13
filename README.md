@@ -3,9 +3,9 @@
   <div style="flex: 1; margin-right: 10px; background-color: #f6f8fa; border-radius: 10px; padding: 20px;">
     <h3 align="left">About Me</h3>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li>🔭 I’m currently working on <a href="https://nyaya-setu-ai.netlify.app/" style="color: #007bff; text-decoration: none;">NyayaSetu.AI</a></li>
+      <li>🔭 I’m currently working on <a href="https://www.overleaf.com/read/wqpmgvjtqyfd#a6f9cc" style="color: #007bff; text-decoration: none;">Violence Detection </a></li>
       <li>🌱 I’m currently learning <b>OPEN-CV, CNN, U-NET, MOBILENET-V2</b></li>
-      <li>🤝 I’m looking for help with <a href="https://www.overleaf.com/read/wqpmgvjtqyfd#a6f9cc" style="color: #007bff; text-decoration: none;">Violence Detection</a></li>
+      <li>🤝 I’m looking for help with <a href="https://www.overleaf.com/read/wqpmgvjtqyfd#a6f9cc" style="color: #007bff; text-decoration: none;">Deep Learning For Pose Estimation</a></li>
       <li>💬 Ask me about <b>SYNTHETIC DATA, ML, AI</b></li>
       <li>📫 How to reach me: <a href="mailto:harshkakadiya128@gmail.com" style="color: #007bff; text-decoration: none;">harshkakadiya128@gmail.com</a></li>
       <li>⚡ Fun fact: <b>I THINK I LOVE DATA' YES MY FREINDS CALL ME STUPID.</b></li>
