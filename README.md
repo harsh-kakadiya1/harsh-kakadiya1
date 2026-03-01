@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=31&pause=&500color=39F791&width=435&lines=Hi+There!+👋;I'm+Harsh+Kakadiya!;AI/ML+Student;Synthetic+Data;Frontend;Ai-developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=31&pause=&500color=39F791&width=435&lines=Hi+There!+👋;I'm+Harsh+Kakadiya!;AI/ML+Student;Conversational+Ai;Ai-developer;Frontend)
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px 0;">
   <div style="flex: 1; margin-right: 10px; background-color: #f6f8fa; border-radius: 10px; padding: 20px;">
     <h3 align="left">About Me</h3>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li>🔭 I’m currently working on <a href="https://www.overleaf.com/read/wqpmgvjtqyfd#a6f9cc" style="color: #007bff; text-decoration: none;">Violence Detection </a></li>
+      <li>🔭 I’m currently working on <a href="https://github.com/harsh-kakadiya1/MetaFlow-Metadata-Driven-AI-Agent-for-ML-Pipeline-Designing" style="color: #007bff; text-decoration: none;">[AUTO ML] AI-Agent-for-ML-Pipeline-Designing </a></li>
       <li>🌱 I’m currently learning <b>OPEN-CV, CNN, U-NET, MOBILENET-V2</b></li>
       <li>🤝 I’m looking for help with <a href="https://www.overleaf.com/read/wqpmgvjtqyfd#a6f9cc" style="color: #007bff; text-decoration: none;">Deep Learning For Pose Estimation</a></li>
       <li>💬 Ask me about <b>SYNTHETIC DATA, ML, AI</b></li>
