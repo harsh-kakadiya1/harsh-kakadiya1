@@ -63,6 +63,8 @@
   </p>
 </div>
 
+![Metrics](/github-metrics.svg).
+
 <div align="center" style="margin-top: 20px;">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-kakadiya1&show_icons=true&locale=en&layout=compact" alt="harsh-kakadiya1" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-kakadiya1&" alt="harsh-kakadiya1" /></p>
