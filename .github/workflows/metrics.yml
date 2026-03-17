@@ -4,6 +4,9 @@ on:
     - cron: "0 0 * * 1"   # Runs every Monday at midnight
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -11,4 +14,4 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
