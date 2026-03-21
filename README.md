@@ -1,2 +1,1 @@
-![Metrics](https://metrics.lecoq.io/harsh-kakadiya1
-)
+![Metrics](https://metrics.lecoq.io/harsh-kakadiya1)
